@@ -65,8 +65,8 @@ The project is split into two stations:
 ---
 
 ## 🎥 Demo
-[![Demo Picture](assets/car_setup.png)]
-👉 [YouTube Demo Link] [(Add your video link here)](https://www.youtube.com/watch?v=Bbf-TNEz7DQ)
+![Demo Picture](car_setup.jpg)
+👉 [YouTube Demo Link](https://www.youtube.com/watch?v=Bbf-TNEz7DQ)
 
 ---
 
